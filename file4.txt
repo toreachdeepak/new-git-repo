@@ -1,0 +1,4 @@
+This is the fourth file.
+Adding second line to the file.
+Third line added too.
+Added fourth line too.
