@@ -1,0 +1,2 @@
+This is a sample new file file3.txt
+This is just to test the common git commands
